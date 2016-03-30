@@ -1,0 +1,28 @@
+{
+  "name": "cl-scraper",
+  "version": "1.0.0",
+  "description": "Another Node.js scraper with x-ray.",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "x-ray": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christabella/cl-scraper.git"
+  },
+  "keywords": [
+    "node",
+    "x-ray"
+  ],
+  "author": "Christabella Irwanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christabella/cl-scraper/issues"
+  },
+  "homepage": "https://github.com/christabella/cl-scraper#readme"
+}
