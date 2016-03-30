@@ -6,6 +6,11 @@ var Promise        = require('bluebird')
 ,   categories = require('./categories.json');
 
 Promise.map(categories, function(catObj){
+
+
+
+
+}.map(function(catObj)) {
     return [catObj, xray(catObj.link, 'p.row', [{
       title: 'span#titletextonly',
       price: 'span.price',
