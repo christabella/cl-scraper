@@ -30,9 +30,13 @@ categories.forEach(function(category) {
         }
     })
     .paginate('a.button.next@href')
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     .write("jobs/Ahmedabad/" + cat + ".json");
 =======
     .write("jobs/Shanghai/" + cat + ".json");
 >>>>>>> b0b4573e0cf93dea93b4683d301a1922bb79e266
+=======
+    .write("jobs/Shenzhen/" + cat + ".json");
+>>>>>>> Stashed changes
   });

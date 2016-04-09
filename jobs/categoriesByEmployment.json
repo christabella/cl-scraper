@@ -1,7 +1,7 @@
 [
   {
     "category": "full-time",
-<<<<<<< HEAD
+
     "link": "http://ahmedabad.craigslist.co.in/search/jjj?employment_type=1"
   },
   {
@@ -15,20 +15,7 @@
   {
     "category": "employee's choice",
     "link": "http://ahmedabad.craigslist.co.in/search/jjj?employment_type=4"
-=======
-    "link": "http://shanghai.craigslist.com.cn/search/jjj/employment_type=1"
-  },
-  {
-    "category": "part-time",
-    "link": "http://shanghai.craigslist.com.cn/search/jjj/employment_type=2"
-  },
-  {
-    "category": "contract",
-    "link": "http://shanghai.craigslist.com.cn/search/jjj/employment_type=3"
-  },
-  {
-    "category": "employee's choice",
-    "link": "http://shanghai.craigslist.com.cn/search/jjj/employment_type=4"
->>>>>>> b0b4573e0cf93dea93b4683d301a1922bb79e266
   }
+
+
 ]
