@@ -30,6 +30,5 @@ categories.forEach(function(category) {
         }
     })
     .paginate('a.button.next@href')
-    .write("jobs/Thailand/" + cat + ".json");
-
+    .write("jobs/Shanghai/" + cat + ".json");
   });

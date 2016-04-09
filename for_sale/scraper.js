@@ -3,7 +3,7 @@ var Promise        = require('bluebird')
 ,   Xray           = require("x-ray")
 ,   xray           = new Xray().delay('2s', '10s')
 ,   scrapedData    = {}
-,   categories = require('./categories.json');
+,   categories = require('./categoriesBySeller.json');
 
 
 categories.forEach(function(category) {
@@ -13,7 +13,6 @@ categories.forEach(function(category) {
   var rStream = xray(category.link, 'p.row', [{
       title: 'a.hdrlnk',
       price: 'span.price',
-      href: 'span.txt>span.pl>a@href',
       time: 'time@datetime',
       location: 'span.l2 small',
       picture_present: 'span.p',
@@ -27,9 +26,10 @@ categories.forEach(function(category) {
     }])
     (function(err, result){
         if(err) {
-          console.log('Error reading from '+url+' : ', err);
+          console.log('Error reading from ' + category.link + ' : ', err);
         }
     })
     .paginate('a.button.next@href')
-    .write("for_sale/data/" + cat + ".json");
+    .limit(3)
+    .write("for_sale/Hong Kong/" + cat + ".json");
   });
