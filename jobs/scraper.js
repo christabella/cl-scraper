@@ -3,7 +3,7 @@ var Promise        = require('bluebird')
 ,   Xray           = require("x-ray")
 ,   xray           = new Xray().delay('2s', '10s')
 ,   scrapedData    = {}
-,   categories = require('./categories.json');
+,   categories = require('./categoriesByEmployment.json');
 
 categories.forEach(function(category) {
   var cat = category.category.replace(/ \/ /g,", "); 
@@ -30,5 +30,5 @@ categories.forEach(function(category) {
         }
     })
     .paginate('a.button.next@href')
-    .write("for_sale/newdata/" + cat + ".json");
+    .write("jobs/HongKongData/" + cat + ".json");
   });

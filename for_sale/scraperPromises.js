@@ -5,11 +5,7 @@ var Promise        = require('bluebird')
 ,   scrapedData    = {}
 ,   categories = require('./categories.json');
 
-Promise.map(categories, function(catObj){
-  // TODO: check if Malaysian posts are being pulled -_-|| 
-  return catObj
-})
-.map(function(catObj) {
+Promise.map(function(catObj) {
   return new Promise(function(resolve, reject){
     var res = [];
     res[0] = catObj;

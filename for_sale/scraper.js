@@ -5,6 +5,7 @@ var Promise        = require('bluebird')
 ,   scrapedData    = {}
 ,   categories = require('./categories.json');
 
+
 categories.forEach(function(category) {
   var cat = category.category.replace(/ \/ /g,", "); 
 
@@ -30,5 +31,5 @@ categories.forEach(function(category) {
         }
     })
     .paginate('a.button.next@href')
-    .write("for_sale/newdata/" + cat + ".json");
+    .write("for_sale/data/" + cat + ".json");
   });
