@@ -1,0 +1,122 @@
+[
+  {
+    "country": "acapulco",
+    "link": "http://acapulco.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "baja sur",
+    "link": "http://bajasur.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "belo horizonte",
+    "link": "http://belohorizonte.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "brasilia",
+    "link": "http://brasilia.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "buenos aires",
+    "link": "http://buenosaires.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "caribbean",
+    "link": "http://caribbean.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "chihuahua",
+    "link": "http://chihuahua.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "chile",
+    "link": "http://santiago.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "ciudad juarez",
+    "link": "http://juarez.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "costa rica",
+    "link": "http://costarica.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "guadalajara",
+    "link": "http://guadalajara.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "guanajuato",
+    "link": "http://guanajuato.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "hermosillo",
+    "link": "http://hermosillo.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "mazatlan",
+    "link": "http://mazatlan.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "mexico city",
+    "link": "http://mexicocity.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "monterrey",
+    "link": "http://monterrey.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "montevideo",
+    "link": "http://montevideo.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "oaxaca",
+    "link": "http://oaxaca.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "panama",
+    "link": "http://panama.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "peru",
+    "link": "http://lima.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "puebla",
+    "link": "http://puebla.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "puerto rico",
+    "link": "http://puertorico.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "puerto vallarta",
+    "link": "http://pv.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "rio de janeiro",
+    "link": "http://rio.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "salvador",
+    "link": "http://salvador.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "sao paulo",
+    "link": "http://saopaulo.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "tijuana",
+    "link": "http://tijuana.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "venezuela",
+    "link": "http://caracas.craigslist.org?lang=en&cc=us"
+  },
+  {
+    "country": "veracruz",
+    "link": "http://veracruz.craigslist.com.mx?lang=en&cc=us"
+  },
+  {
+    "country": "yucatan",
+    "link": "http://yucatan.craigslist.com.mx?lang=en&cc=us"
+  },
+]

@@ -1,7 +1,7 @@
 var Promise        = require('bluebird')
 ,   fs             = require('fs')
 ,   Xray           = require("x-ray")
-,   xray           = new Xray().delay('10s', '30s')
+,   xray           = new Xray().delay('5s', '30s')
 ,   scrapedData    = {}
 ,   country = process.env.COUNTRY
 ,   countryLink = process.env.LINK;

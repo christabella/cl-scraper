@@ -1,0 +1,322 @@
+[
+  {
+    "country": "adelaide",
+    "link": "http://adelaide.craigslist.com.au"
+  },
+  {
+    "country": "auckland",
+    "link": "http://auckland.craigslist.org"
+  },
+  {
+    "country": "bangalore",
+    "link": "http://bangalore.craigslist.co.in"
+  },
+  {
+    "country": "bangladesh",
+    "link": "http://bangladesh.craigslist.org"
+  },
+  {
+    "country": "beijing",
+    "link": "http://beijing.craigslist.com.cn"
+  },
+  {
+    "country": "brisbane",
+    "link": "http://brisbane.craigslist.com.au"
+  },
+  {
+    "country": "chennai",
+    "link": "http://chennai.craigslist.co.in"
+  },
+  {
+    "country": "christchurch",
+    "link": "http://christchurch.craigslist.org"
+  },
+  {
+    "country": "delhi",
+    "link": "http://delhi.craigslist.co.in"
+  },
+  {
+    "country": "hong kong",
+    "link": "http://hongkong.craigslist.hk"
+  },
+  {
+    "country": "hyderabad",
+    "link": "http://hyderabad.craigslist.co.in"
+  },
+  {
+    "country": "indonesia",
+    "link": "http://jakarta.craigslist.org"
+  },
+  {
+    "country": "kuwait",
+    "link": "http://kuwait.craigslist.org"
+  },
+  {
+    "country": "kerala",
+    "link": "http://kerala.craigslist.co.in"
+  },
+  {
+    "country": "kolkata",
+    "link": "http://kolkata.craigslist.co.in"
+  },
+  {
+    "country": "malaysia",
+    "link": "http://malaysia.craigslist.org"
+  },
+  {
+    "country": "manila",
+    "link": "http://manila.craigslist.com.ph"
+  },
+  {
+    "country": "melbourne",
+    "link": "http://melbourne.craigslist.com.au"
+  },
+  {
+    "country": "micronesia",
+    "link": "http://micronesia.craigslist.org"
+  },
+  {
+    "country": "mumbai",
+    "link": "http://mumbai.craigslist.co.in"
+  },
+  {
+    "country": "osaka",
+    "link": "http://osaka.craigslist.jp"
+  },
+  {
+    "country": "perth",
+    "link": "http://perth.craigslist.com.au"
+  },
+  {
+    "country": "pune",
+    "link": "http://pune.craigslist.co.in"
+  },
+  {
+    "country": "seoul",
+    "link": "http://seoul.craigslist.co.kr"
+  },
+  {
+    "country": "shanghai",
+    "link": "http://shanghai.craigslist.com.cn"
+  },
+  {
+    "country": "sydney",
+    "link": "http://sydney.craigslist.com.au"
+  },
+  {
+    "country": "taiwan",
+    "link": "http://taipei.craigslist.com.tw"
+  },
+  {
+    "country": "thailand",
+    "link": "http://bangkok.craigslist.co.th"
+  },
+  {
+    "country": "tokyo",
+    "link": "http://tokyo.craigslist.jp"
+  },
+  {
+    "country": "vietnam",
+    "link": "http://vietnam.craigslist.org"
+  },
+  {
+    "country": "wellington",
+    "link": "http://wellington.craigslist.org"
+  },
+  {
+    "country": "beirut",
+    "link": "http://beirut.craigslist.org"
+  },
+  {
+    "country": "vienna",
+    "link": "vienna.craigslist.at"
+  },
+  {
+    "country": "cairo",
+    "link": "http://cairo.craigslist.org"
+  },
+  {
+    "country": "emirates",
+    "link": "http://dubai.craigslist.org"
+  },
+  {
+    "country": "haifa",
+    "link": "http://haifa.craigslist.org"
+  },
+  {
+    "country": "jerusalem",
+    "link": "http://jerusalem.craigslist.org"
+  },
+  {
+    "country": "pakistan",
+    "link": "http://pakistan.craigslist.org"
+  },
+  {
+    "country": "tel aviv",
+    "link": "http://telaviv.craigslist.org"
+  },
+  {
+    "country": "amsterdam",
+    "link": "http://amsterdam.craigslist.org/"
+  },
+  {
+    "country": "berlin",
+    "link": "http://berlin.craigslist.org/"
+  },
+  {
+    "country": "brussels",
+    "link": "http://brussels.craigslist.org/"
+  },
+  {
+    "country": "budapest",
+    "link": "http://budapest.craigslist.org/"
+  },
+  {
+    "country": "copenhagen",
+    "link": "http://copenhagen.craigslist.org/"
+  },
+  {
+    "country": "côte d'azur",
+    "link": "http://cotedazur.craigslist.org/"
+  },
+  {
+    "country": "dublin",
+    "link": "http://dublin.craigslist.org/"
+  },
+  {
+    "country": "edinburgh",
+    "link": "http://edinburgh.craigslist.co.uk/"
+  },
+  {
+    "country": "florence",
+    "link": "http://florence.craigslist.org/"
+  },
+  {
+    "country": "london",
+    "link": "http://london.craigslist.co.uk/"
+  },
+  {
+    "country": "munich",
+    "link": "http://munich.craigslist.org/"
+  },
+  {
+    "country": "oslo",
+    "link": "http://oslo.craigslist.org/"
+  },
+  {
+    "country": "oxford",
+    "link": "http://oxford.craigslist.co.uk/"
+  },
+  {
+    "country": "paris",
+    "link": "http://paris.craigslist.org/"
+  },
+  {
+    "country": "prague",
+    "link": "http://prague.craigslist.cz/"
+  },
+  {
+    "country": "rome",
+    "link": "http://rome.craigslist.org/"
+  },
+  {
+    "country": "stockholm",
+    "link": "http://stockholm.craigslist.se/"
+  },
+  {
+    "country": "venice",
+    "link": "http://venice.craigslist.org/"
+  },
+  {
+    "country": "istanbul",
+    "link": "http://istanbul.craigslist.com.tr/"
+  },
+  {
+    "country": "baghdad",
+    "link": "http://baghdad.craigslist.org/"
+  },
+  {
+    "country": "ramallah",
+    "link": "http://ramallah.craigslist.org/"
+  },
+  {
+    "country": "boston",
+    "link": "http://boston.craigslist.org/"
+  },
+  {
+    "country": "chicago",
+    "link": "http://chicago.craigslist.org/"
+  },
+  {
+    "country": "los angeles",
+    "link": "http://losangeles.craigslist.org/"
+  },
+  {
+    "country": "miami",
+    "link": "http://miami.craigslist.org/"
+  },
+  {
+    "country": "montreal",
+    "link": "http://montreal.craigslist.ca/"
+  },
+  {
+    "country": "new york",
+    "link": "http://newyork.craigslist.org/"
+  },
+  {
+    "country": "seattle",
+    "link": "http://seattle.craigslist.org/"
+  },
+  {
+    "country": "sf bayarea",
+    "link": "http://sfbay.craigslist.org/"
+  },
+  {
+    "country": "toronto",
+    "link": "http://toronto.craigslist.ca/"
+  },
+  {
+    "country": "vancouver",
+    "link": "http://vancouver.craigslist.ca/"
+  },
+  {
+    "country": "wash dc",
+    "link": "http://washingtondc.craigslist.org/"
+  },
+  {
+    "country": "cape town",
+    "link": "http://capetown.craigslist.co.za"
+  },
+  {
+    "country": "durban",
+    "link": "http://durban.craigslist.co.za"
+  },
+  {
+    "country": "egypt",
+    "link": "http://cairo.craigslist.org"
+  },
+  {
+    "country": "ethiopia",
+    "link": "http://addisababa.craigslist.org"
+  },
+  {
+    "country": "ghana",
+    "link": "http://accra.craigslist.org"
+  },
+  {
+    "country": "johannesburg",
+    "link": "http://johannesburg.craigslist.co.za"
+  },
+  {
+    "country": "morocco",
+    "link": "http://casablanca.craigslist.org"
+  },
+  {
+    "country": "pretoria",
+    "link": "http://pretoria.craigslist.co.za"
+  },
+  {
+    "country": "tunisia",
+    "link": "http://tunis.craigslist.org"
+  },
+]
