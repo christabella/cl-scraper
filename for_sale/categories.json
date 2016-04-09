@@ -1,217 +1,5 @@
 [
   {
-    "category": "activities",
-    "link": "http://singapore.craigslist.com.sg/search/act"
-  },
-  {
-    "category": "artists",
-    "link": "http://singapore.craigslist.com.sg/search/ats"
-  },
-  {
-    "category": "childcare",
-    "link": "http://singapore.craigslist.com.sg/search/kid"
-  },
-  {
-    "category": "classes",
-    "link": "http://singapore.craigslist.com.sg/search/cls"
-  },
-  {
-    "category": "events",
-    "link": "http://singapore.craigslist.com.sg/search/eve"
-  },
-  {
-    "category": "general",
-    "link": "http://singapore.craigslist.com.sg/search/com"
-  },
-  {
-    "category": "groups",
-    "link": "http://singapore.craigslist.com.sg/search/grp"
-  },
-  {
-    "category": "local news",
-    "link": "http://singapore.craigslist.com.sg/search/vnn"
-  },
-  {
-    "category": "lost+found",
-    "link": "http://singapore.craigslist.com.sg/search/laf"
-  },
-  {
-    "category": "musicians",
-    "link": "http://singapore.craigslist.com.sg/search/muc"
-  },
-  {
-    "category": "pets",
-    "link": "http://singapore.craigslist.com.sg/search/pet"
-  },
-  {
-    "category": "politics",
-    "link": "http://singapore.craigslist.com.sg/search/pol"
-  },
-  {
-    "category": "rideshare",
-    "link": "http://singapore.craigslist.com.sg/search/rid"
-  },
-  {
-    "category": "volunteers",
-    "link": "http://singapore.craigslist.com.sg/search/vol"
-  },
-  {
-    "category": "strictly platonic",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=stp"
-  },
-  {
-    "category": "women seek women",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=w4w"
-  },
-  {
-    "category": "women seeking men",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=w4m"
-  },
-  {
-    "category": "men seeking women",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=m4w"
-  },
-  {
-    "category": "men seeking men",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=m4m"
-  },
-  {
-    "category": "misc romance",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=msr"
-  },
-  {
-    "category": "casual encounters",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=cas"
-  },
-  {
-    "category": "missed connections",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=mis"
-  },
-  {
-    "category": "rants and raves",
-    "link": "http://singapore.craigslist.com.sg/i/personals?category=rnr"
-  },
-  {
-    "category": "automotive",
-    "link": "http://singapore.craigslist.com.sg/search/aos"
-  },
-  {
-    "category": "beauty",
-    "link": "http://singapore.craigslist.com.sg/search/bts"
-  },
-  {
-    "category": "computer",
-    "link": "http://singapore.craigslist.com.sg/search/cps"
-  },
-  {
-    "category": "creative",
-    "link": "http://singapore.craigslist.com.sg/search/crs"
-  },
-  {
-    "category": "cycle",
-    "link": "http://singapore.craigslist.com.sg/search/cys"
-  },
-  {
-    "category": "event",
-    "link": "http://singapore.craigslist.com.sg/search/evs"
-  },
-  {
-    "category": "farm+garden",
-    "link": "http://singapore.craigslist.com.sg/search/fgs"
-  },
-  {
-    "category": "financial",
-    "link": "http://singapore.craigslist.com.sg/search/fns"
-  },
-  {
-    "category": "household",
-    "link": "http://singapore.craigslist.com.sg/search/hss"
-  },
-  {
-    "category": "labor/move",
-    "link": "http://singapore.craigslist.com.sg/search/lbs"
-  },
-  {
-    "category": "legal",
-    "link": "http://singapore.craigslist.com.sg/search/lgs"
-  },
-  {
-    "category": "lessons",
-    "link": "http://singapore.craigslist.com.sg/search/lss"
-  },
-  {
-    "category": "marine",
-    "link": "http://singapore.craigslist.com.sg/search/mas"
-  },
-  {
-    "category": "pet",
-    "link": "http://singapore.craigslist.com.sg/search/pas"
-  },
-  {
-    "category": "real estate",
-    "link": "http://singapore.craigslist.com.sg/search/rts"
-  },
-  {
-    "category": "skill'd trade",
-    "link": "http://singapore.craigslist.com.sg/search/sks"
-  },
-  {
-    "category": "sm biz ads",
-    "link": "http://singapore.craigslist.com.sg/search/biz"
-  },
-  {
-    "category": "therapeutic",
-    "link": "http://singapore.craigslist.com.sg/search/ths"
-  },
-  {
-    "category": "travel/vac",
-    "link": "http://singapore.craigslist.com.sg/search/trv"
-  },
-  {
-    "category": "write/ed/tr8",
-    "link": "http://singapore.craigslist.com.sg/search/wet"
-  },
-  {
-    "category": "apts / housing",
-    "link": "http://singapore.craigslist.com.sg/search/apa"
-  },
-  {
-    "category": "housing swap",
-    "link": "http://singapore.craigslist.com.sg/search/swp"
-  },
-  {
-    "category": "housing wanted",
-    "link": "http://singapore.craigslist.com.sg/search/hsw"
-  },
-  {
-    "category": "office / commercial",
-    "link": "http://singapore.craigslist.com.sg/search/off"
-  },
-  {
-    "category": "parking / storage",
-    "link": "http://singapore.craigslist.com.sg/search/prk"
-  },
-  {
-    "category": "real estate for sale",
-    "link": "http://singapore.craigslist.com.sg/search/rea"
-  },
-  {
-    "category": "rooms / shared",
-    "link": "http://singapore.craigslist.com.sg/search/roo"
-  },
-  {
-    "category": "rooms wanted",
-    "link": "http://singapore.craigslist.com.sg/search/sha"
-  },
-  {
-    "category": "sublets / temporary",
-    "link": "http://singapore.craigslist.com.sg/search/sub"
-  },
-  {
-    "category": "vacation rentals",
-    "link": "http://singapore.craigslist.com.sg/search/vac"
-  },
-  {
     "category": "antiques",
     "link": "http://singapore.craigslist.com.sg/search/ata"
   },
@@ -220,11 +8,11 @@
     "link": "http://singapore.craigslist.com.sg/search/ppa"
   },
   {
-    "category": "arts+crafts",
+    "category": "arts & crafts",
     "link": "http://singapore.craigslist.com.sg/search/ara"
   },
   {
-    "category": "atv/utv/sno",
+    "category": "atvs, utvs, snowmobiles",
     "link": "http://singapore.craigslist.com.sg/search/sna"
   },
   {
@@ -232,7 +20,7 @@
     "link": "http://singapore.craigslist.com.sg/i/auto_parts"
   },
   {
-    "category": "baby+kid",
+    "category": "baby & kid stuff",
     "link": "http://singapore.craigslist.com.sg/search/baa"
   },
   {
@@ -240,7 +28,7 @@
     "link": "http://singapore.craigslist.com.sg/search/bar"
   },
   {
-    "category": "beauty+hlth",
+    "category": "beauty and health",
     "link": "http://singapore.craigslist.com.sg/search/haa"
   },
   {
@@ -260,11 +48,11 @@
     "link": "http://singapore.craigslist.com.sg/search/bfa"
   },
   {
-    "category": "cars+trucks",
+    "category": "cars & trucks",
     "link": "http://singapore.craigslist.com.sg/i/autos"
   },
   {
-    "category": "cds/dvd/vhs",
+    "category": "cds, dvd, vhs",
     "link": "http://singapore.craigslist.com.sg/search/ema"
   },
   {
@@ -272,7 +60,7 @@
     "link": "http://singapore.craigslist.com.sg/search/moa"
   },
   {
-    "category": "clothes+acc",
+    "category": "clothing & accessories",
     "link": "http://singapore.craigslist.com.sg/search/cla"
   },
   {
@@ -288,7 +76,7 @@
     "link": "http://singapore.craigslist.com.sg/search/ela"
   },
   {
-    "category": "farm+garden",
+    "category": "farm & garden",
     "link": "http://singapore.craigslist.com.sg/search/gra"
   },
   {
@@ -308,7 +96,7 @@
     "link": "http://singapore.craigslist.com.sg/search/foa"
   },
   {
-    "category": "heavy equip",
+    "category": "heavy equipment",
     "link": "http://singapore.craigslist.com.sg/search/hva"
   },
   {
@@ -328,15 +116,15 @@
     "link": "http://singapore.craigslist.com.sg/i/motorcycles"
   },
   {
-    "category": "music instr",
+    "category": "music instruments",
     "link": "http://singapore.craigslist.com.sg/search/msa"
   },
   {
-    "category": "photo+video",
+    "category": "photo, video",
     "link": "http://singapore.craigslist.com.sg/search/pha"
   },
   {
-    "category": "rvs+camp",
+    "category": "motor homes, camper vans, RVs",
     "link": "http://singapore.craigslist.com.sg/search/rva"
   },
   {
@@ -352,7 +140,7 @@
     "link": "http://singapore.craigslist.com.sg/search/tla"
   },
   {
-    "category": "toys+games",
+    "category": "toys & games",
     "link": "http://singapore.craigslist.com.sg/search/taa"
   },
   {
@@ -362,137 +150,5 @@
   {
     "category": "wanted",
     "link": "http://singapore.craigslist.com.sg/search/waa"
-  },
-  {
-    "category": "accounting+finance",
-    "link": "http://singapore.craigslist.com.sg/search/acc"
-  },
-  {
-    "category": "admin / office",
-    "link": "http://singapore.craigslist.com.sg/search/ofc"
-  },
-  {
-    "category": "arch / engineering",
-    "link": "http://singapore.craigslist.com.sg/search/egr"
-  },
-  {
-    "category": "art / media / design",
-    "link": "http://singapore.craigslist.com.sg/search/med"
-  },
-  {
-    "category": "biotech / science",
-    "link": "http://singapore.craigslist.com.sg/search/sci"
-  },
-  {
-    "category": "business / mgmt",
-    "link": "http://singapore.craigslist.com.sg/search/bus"
-  },
-  {
-    "category": "customer service",
-    "link": "http://singapore.craigslist.com.sg/search/csr"
-  },
-  {
-    "category": "education",
-    "link": "http://singapore.craigslist.com.sg/search/edu"
-  },
-  {
-    "category": "food / bev / hosp",
-    "link": "http://singapore.craigslist.com.sg/search/fbh"
-  },
-  {
-    "category": "general labor",
-    "link": "http://singapore.craigslist.com.sg/search/lab"
-  },
-  {
-    "category": "government",
-    "link": "http://singapore.craigslist.com.sg/search/gov"
-  },
-  {
-    "category": "human resources",
-    "link": "http://singapore.craigslist.com.sg/search/hum"
-  },
-  {
-    "category": "internet engineers",
-    "link": "http://singapore.craigslist.com.sg/search/eng"
-  },
-  {
-    "category": "legal / paralegal",
-    "link": "http://singapore.craigslist.com.sg/search/lgl"
-  },
-  {
-    "category": "manufacturing",
-    "link": "http://singapore.craigslist.com.sg/search/mnu"
-  },
-  {
-    "category": "marketing / pr / ad",
-    "link": "http://singapore.craigslist.com.sg/search/mar"
-  },
-  {
-    "category": "medical / health",
-    "link": "http://singapore.craigslist.com.sg/search/hea"
-  },
-  {
-    "category": "nonprofit sector",
-    "link": "http://singapore.craigslist.com.sg/search/npo"
-  },
-  {
-    "category": "real estate",
-    "link": "http://singapore.craigslist.com.sg/search/rej"
-  },
-  {
-    "category": "retail / wholesale",
-    "link": "http://singapore.craigslist.com.sg/search/ret"
-  },
-  {
-    "category": "sales / biz dev",
-    "link": "http://singapore.craigslist.com.sg/search/sls"
-  },
-  {
-    "category": "salon / spa / fitness",
-    "link": "http://singapore.craigslist.com.sg/search/spa"
-  },
-  {
-    "category": "security",
-    "link": "http://singapore.craigslist.com.sg/search/sec"
-  },
-  {
-    "category": "skilled trade / craft",
-    "link": "http://singapore.craigslist.com.sg/search/trd"
-  },
-  {
-    "category": "software / qa / dba",
-    "link": "http://singapore.craigslist.com.sg/search/sof"
-  },
-  {
-    "category": "systems / network",
-    "link": "http://singapore.craigslist.com.sg/search/sad"
-  },
-  {
-    "category": "technical support",
-    "link": "http://singapore.craigslist.com.sg/search/tch"
-  },
-  {
-    "category": "transport",
-    "link": "http://singapore.craigslist.com.sg/search/trp"
-  },
-  {
-    "category": "tv / film / video",
-    "link": "http://singapore.craigslist.com.sg/search/tfr"
-  },
-  {
-    "category": "web / info design",
-    "link": "http://singapore.craigslist.com.sg/search/web"
-  },
-  {
-    "category": "writing / editing",
-    "link": "http://singapore.craigslist.com.sg/search/wri"
-  },
-  {
-    "category": "[ETC]",
-    "link": "http://singapore.craigslist.com.sg/search/etc"
-  },
-  {
-    "category": "[ part-time ]",
-    "link": "http://singapore.craigslist.com.sg/search/jjj?employment_type=2"
   }
 ]
