@@ -1,7 +1,7 @@
 var Promise        = require('bluebird')
 ,   fs             = require('fs')
 ,   Xray           = require("x-ray")
-,   xray           = new Xray().delay('2s', '10s')
+,   xray           = new Xray().delay('5s', '30s')
 ,   scrapedData    = {}
 ,   categories = require('./categoriesByEmployment.json');
 
@@ -30,13 +30,6 @@ categories.forEach(function(category) {
         }
     })
     .paginate('a.button.next@href')
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    .write("jobs/Ahmedabad/" + cat + ".json");
-=======
-    .write("jobs/Shanghai/" + cat + ".json");
->>>>>>> b0b4573e0cf93dea93b4683d301a1922bb79e266
-=======
-    .write("jobs/Shenzhen/" + cat + ".json");
->>>>>>> Stashed changes
+    .write("jobs/Thailand/" + cat + ".json");
+
   });
