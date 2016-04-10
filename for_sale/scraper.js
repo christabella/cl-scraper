@@ -1,16 +1,12 @@
 var Promise        = require('bluebird')
 ,   fs             = require('fs')
 ,   Xray           = require("x-ray")
-,   xray           = new Xray().delay('2s', '5s')
+,   xray           = new Xray().delay('1s', '10s')
 ,   scrapedData    = {}
 ,   country = process.env.COUNTRY
 ,   countryLink = process.env.LINK;
 
 var categories = [
-  {
-    "category": "by owner",
-    "link": countryLink + "search/sso"
-  },
   {
     "category": "by dealer",
     "link": countryLink + "search/ssq"
@@ -19,7 +15,7 @@ var categories = [
 
 categories.forEach(function(cat) {
   console.log("xraying " + cat.link);
-  var rStream = xray(cat.link, 'p.row', [{
+  xray(cat.link, 'p.row', [{
       title: 'a.hdrlnk',
       price: 'span.price',
       time: 'time@datetime',
