@@ -2,6 +2,11 @@
 Another Node.js web scraper with x-ray.
 
 ### Usage
+## Automated
+`./for_sale2.sh` to scrape all countries' for sale sections.
+`./personals.sh` to scrape all countries' personals sections.
+
+## Manual
 `cd` into root directory and run `╰─➤ node for_sale/scraper.js` for now... (or `jobs/scraper.js`, or `services/scraper.js` etc.).
 ** Note: don't `cd` into category folder and run `node scraper.js` **
 
